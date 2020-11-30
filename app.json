@@ -16,7 +16,8 @@
     },
 	"MY_PREF": {
       "description": "自定义配置文件网络地址",
-      "value": ""
+      "value": "",
+	  "required": false
     }
   }
 }
