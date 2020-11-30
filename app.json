@@ -7,15 +7,15 @@
   "stack": "container",
   "env": {
     "API_TOKEN": {
-      "description": "The access token for accessing local files and modifying settings.",
+      "description": "自定义TOKEN参数",
       "value": "password"
     },
 	"MY_LINKS": {
-      "description": "自定义节点列表网络地址",
+      "description": "自定义网络地址读取节点列表",
       "value": "https://raw.githubusercontent.com/mixool/subconverterku/master/etc/links.diy"
     },
 	"MY_PREF": {
-      "description": "自定义配置文件网络地址",
+      "description": "自定义配置文件网络地址,不熟悉配置请勿修改",
       "value": "",
 	  "required": false
     }
