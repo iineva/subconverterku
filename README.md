@@ -1,5 +1,5 @@
 * [wiki: subconverter](https://github.com/tindy2013/subconverter)  
-* 支持自定义节点列表地址生成订阅  
+* 支持自定义节点列表地址生成订阅,如[Create secret gist](https://gist.github.com/)  
   
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/mixool/subconverterku)  
   
