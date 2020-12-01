@@ -1,5 +1,6 @@
 * [subconverter wiki](https://github.com/tindy2013/subconverter)  
 * 支持自定义节点列表地址生成订阅 [create secret gist](https://gist.github.com/)  
+* 可fork后按需修改start.sh中auto.ini实现筛选自定义节点等其它功能  
   
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/mixool/subconverterku)  
   
@@ -15,7 +16,4 @@
 * **替换API_TOKEN为部署时设置的API_TOKEN值**  
   
 * 订阅转换: https://appname.herokuapp.com
-* clash: https://appname.herokuapp.com/getprofile?name=profiles/clash.ini&token=API_TOKEN
-* quanx: https://appname.herokuapp.com/getprofile?name=profiles/quanx.ini&token=API_TOKEN
-* surge: https://appname.herokuapp.com/getprofile?name=profiles/surge.ini&token=API_TOKEN
-* v2ray: https://appname.herokuapp.com/getprofile?name=profiles/v2ray.ini&token=API_TOKEN
+* 订阅自选节点: https://appname.herokuapp.com/getprofile?name=profiles/auto.ini&token=API_TOKEN
