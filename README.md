@@ -16,4 +16,4 @@
 * **替换API_TOKEN为部署时设置的API_TOKEN值**  
   
 * 订阅转换: `https://appname.herokuapp.com`
-* 订阅自选节点: `https://appname.herokuapp.com/getprofile?name=profiles/auto.ini&token=API_TOKEN`
+* 订阅自定义节点列表: `https://appname.herokuapp.com/getprofile?name=profiles/auto.ini&token=API_TOKEN`
