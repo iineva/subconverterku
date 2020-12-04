@@ -1,7 +1,7 @@
 * [subconverter wiki](https://github.com/tindy2013/subconverter)  
 * 支持自定义节点列表地址生成订阅 [create secret gist](https://gist.github.com/)  
 * 可fork后按需修改start.sh中auto.ini实现筛选自定义节点等其它功能  
-* 贡献demo订阅节点需得到节点提供者授权,可编辑[links.diy](https://github.com/mixool/subconverterku/blob/master/etc/links.diy)文件后提交PR或使用[issues](https://github.com/mixool/subconverterku/issues/new)  
+* 贡献demo订阅节点需得到节点提供者授权,可编辑[links.diy](https://github.com/mixool/subconverterku/blob/master/etc/links.diy)文件后提交PR或~~使用[issues](https://github.com/mixool/subconverterku/issues/new)~~  
   
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/mixool/subconverterku)  
   
