@@ -16,4 +16,4 @@
 * **替换API_TOKEN为部署时设置的API_TOKEN值**  
 > demo  
 * 订阅转换: https://subku.herokuapp.com/
-* 订阅自定义节点列表: https://subku.herokuapp.com/
+* 订阅自定义节点列表: https://subku.herokuapp.com/getprofile?name=profiles/auto.ini&token=password
