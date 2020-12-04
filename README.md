@@ -19,4 +19,6 @@
 * 订阅自定义节点列表: https://subku.herokuapp.com/getprofile?name=profiles/auto.ini&token=password
 
 Tips:  
-> 贡献公益节点需得到节点提供者授权: 编辑[links.diy](https://github.com/mixool/subconverterku/blob/master/etc/links.diy)文件后提交PR
+> 贡献公益节点或订阅需得到节点提供者授权
+* 编辑[links.diy](https://github.com/mixool/subconverterku/blob/master/etc/links.diy)文件后提交PR
+* [issues](https://github.com/mixool/subconverterku/issues/new)
