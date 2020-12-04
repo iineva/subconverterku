@@ -12,8 +12,8 @@
   
 ### 客户端
 * **务必使用HTTPS访问**  
-* **替换appname.herokuapp.com为heroku分配的项目域名**  
+* **替换subku.herokuapp.com为heroku分配的项目域名**  
 * **替换API_TOKEN为部署时设置的API_TOKEN值**  
-  
-* 订阅转换: `https://appname.herokuapp.com`
-* 订阅自定义节点列表: `https://appname.herokuapp.com/getprofile?name=profiles/auto.ini&token=API_TOKEN`
+> demo  
+* 订阅转换: https://subku.herokuapp.com/
+* 订阅自定义节点列表: https://subku.herokuapp.com/
