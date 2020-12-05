@@ -1,7 +1,7 @@
 * [subconverter wiki](https://github.com/tindy2013/subconverter)  
 * 支持自定义节点列表地址生成订阅 [create secret gist](https://gist.github.com/)  
 * 可fork后按需修改start.sh中auto.ini实现筛选自定义节点等其它功能  
-* 贡献demo订阅节点需得到节点提供者授权,可编辑[links.diy](https://github.com/mixool/subconverterku/blob/master/etc/links.diy)文件后提交PR~~或使用[issues](https://github.com/mixool/subconverterku/issues/new)~~  
+* 贡献demo订阅节点需得到提供者授权,可编辑[links.diy](https://github.com/mixool/subconverterku/blob/master/etc/links.diy)文件后提交PR~~或使用[issues](https://github.com/mixool/subconverterku/issues/new)~~  
   
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/mixool/subconverterku)  
   
@@ -16,5 +16,5 @@
 * **替换subku.herokuapp.com为heroku分配的项目域名**  
 * **替换API_TOKEN为部署时设置的API_TOKEN值**  
 > demo  
-* 订阅转换: https://subku.herokuapp.com/
 * 订阅自定义节点列表: https://subku.herokuapp.com/getprofile?name=profiles/auto.ini&token=password  
+* 订阅转换需要其它参数,具体格式查看[subconverter wiki](https://github.com/tindy2013/subconverter): https://subku.herokuapp.com/
