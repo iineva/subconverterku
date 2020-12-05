@@ -16,5 +16,5 @@
 * **替换subku.herokuapp.com为heroku分配的项目域名**  
 * **替换API_TOKEN为部署时设置的API_TOKEN值**  
 > demo  
-* 订阅转换: https://subku.herokuapp.com/   (需要其它参数,具体格式查看wiki)
+* 订阅转换: https://subku.herokuapp.com/
 * 订阅自定义节点列表: https://subku.herokuapp.com/getprofile?name=profiles/auto.ini&token=password  
