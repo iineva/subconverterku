@@ -14,7 +14,7 @@
 ### 客户端
 * **务必使用HTTPS访问**  
 * **替换subku.herokuapp.com为heroku分配的项目域名**  
-* **替换API_TOKEN为部署时设置的API_TOKEN值**  
+* **替换password为部署时设置的API_TOKEN值**  
 > 以下demo中的大部分节点取自订阅: [Sansui233/proxypool](https://github.com/Sansui233/proxypool)  
 * 订阅转换: https://subku.herokuapp.com/
 * 订阅自定义节点列表: https://subku.herokuapp.com/getprofile?name=profiles/auto.ini&token=password  
