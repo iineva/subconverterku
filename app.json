@@ -7,20 +7,20 @@
   "stack": "container",
   "env": {
     "API_TOKEN": {
-      "description": "TOKEN参数,",
+      "description": "TOKEN参数",
       "value": "password"
     },
-    "MY_LINKS": {
-      "description": "读取节点列表的网络地址",
-      "value": "https://raw.githubusercontent.com/mixool/subconverterku/master/etc/links.diy"
-    },
-    "MY_NOTHING": {
-      "description": "部署完成后修改此变量触发新节点配置",
+    "MY_PREF_INI": {
+      "description": "自定义pref.ini配置文件网络地址,不熟悉配置请勿填写修改",
       "value": "",
       "required": false
     },
-    "MY_PREF": {
-      "description": "自定义配置文件网络地址,不熟悉配置请勿填写修改",
+    "MY_PRO_INI": {
+      "description": "节点列表即profiles/pro.ini配置文件地址,参考下面链接文件内容",
+      "value": "https://raw.githubusercontent.com/mixool/subconverterku/master/etc/links.diy"
+    },
+    "NOTHING": {
+      "description": "部署完成后修改此变量触发新节点配置",
       "value": "",
       "required": false
     }
