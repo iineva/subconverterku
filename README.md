@@ -1,7 +1,6 @@
+* [DEMO](https://subku.herokuapp.com/sub?target=clash&url=https%3a%2f%2fproxypoolss.tk%2fclash%2fproxies%3fc%3dJP%2cTW%26speed%3d15%26type%3dss)的节点来自公益项目[Sansui233/proxypool](https://github.com/Sansui233/proxypool)  
 * [subconverter wiki](https://github.com/tindy2013/subconverter)  
-* 支持自定义节点列表地址生成订阅,格式参考[links.diy](/etc/links.diy)  
-* 配置地址可使用[secret gist](https://gist.github.com/)  
-* demo仅供测试,需长期稳定使用请自行搭建服务端  
+* [支持自定义节点列表地址生成订阅](https://gist.github.com/),格式参考[links.diy](/etc/links.diy)  
   
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/mixool/subconverterku)  
   
@@ -19,5 +18,3 @@
 订阅转换: https://subku.herokuapp.com/ 
 订阅自定义节点列表: https://subku.herokuapp.com/getprofile?name=profiles/pro.ini&token=password
 ```
-  
-> 此[DEMO](https://subku.herokuapp.com/sub?target=clash&url=https%3a%2f%2fproxypoolss.tk%2fclash%2fproxies%3fc%3dJP%2cTW%26speed%3d15%26type%3dss)的节点来自公益项目: [Sansui233/proxypool](https://github.com/Sansui233/proxypool)  
