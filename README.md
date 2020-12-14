@@ -9,7 +9,7 @@
   
 ### 客户端
 * **务必使用HTTPS访问**  
-* **替换subku.herokuapp.com为heroku分配的项目域名**  
+* **替换appname.herokuapp.com为heroku分配的项目域名**  
 * **替换password为部署时设置的API_TOKEN值**  
 ```bash
 订阅转换: https://appname.herokuapp.com/ 
