@@ -1,5 +1,3 @@
-* [subconverter wiki](https://github.com/tindy2013/subconverter)  
-  
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/mixool/subconverterku)  
   
 ### 服务端
@@ -17,4 +15,7 @@
 订阅转换: https://subku.herokuapp.com/ 
 订阅自定义节点列表: https://subku.herokuapp.com/getprofile?name=profiles/pro.ini&token=password
 ```
+  
+Thanks:  
+* [subconverter wiki](https://github.com/tindy2013/subconverter)  
 * [DEMO](https://subku.herokuapp.com/sub?target=clash&url=https%3a%2f%2fproxypoolss.tk%2fclash%2fproxies%3fc%3dJP%2cTW%26speed%3d15%26type%3dss)的节点来自公益项目[Sansui233/proxypool](https://github.com/Sansui233/proxypool)  
