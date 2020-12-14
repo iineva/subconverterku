@@ -1,5 +1,4 @@
 * [subconverter wiki](https://github.com/tindy2013/subconverter)  
-* 参考[links.diy](/etc/links.diy)格式,[自定义profile文件生成订阅](https://gist.github.com/)  
   
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/mixool/subconverterku)  
   
@@ -8,6 +7,7 @@
 如出现错误，可以多尝试几次，待部署完成后页面底部会显示Your app was successfully deployed  
   * 点击Manage App可在Settings下的Config Vars项**查看和重新设置参数,立即生效**  
   * 点击Open app跳转域名即为heroku分配域名，格式为`appname.herokuapp.com`，用于客户端  
+  * 参考[links.diy](/etc/links.diy)格式,[自定义profile文件生成订阅](https://gist.github.com/)  
   
 ### 客户端
 * **务必使用HTTPS访问**  
