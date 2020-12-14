@@ -1,5 +1,5 @@
 * [subconverter wiki](https://github.com/tindy2013/subconverter)  
-* [支持自定义profile文件生成订阅](https://gist.github.com/),格式参考[links.diy](/etc/links.diy)  
+* 参考[links.diy](/etc/links.diy)格式,[自定义profile文件生成订阅](https://gist.github.com/)  
   
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/mixool/subconverterku)  
   
