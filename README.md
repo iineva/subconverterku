@@ -20,5 +20,4 @@
 订阅自定义节点列表: https://subku.herokuapp.com/getprofile?name=profiles/pro.ini&token=password
 ```
   
-> [DEMO](https://subku.herokuapp.com/sub?target=clash&url=https%3a%2f%2fproxypoolss.tk%2fclash%2fproxies%3fc%3dJP%2cTW%26speed%3d15%26type%3dss)  
-* demo中的节点取自订阅: [Sansui233/proxypool](https://github.com/Sansui233/proxypool)  
+> 此[DEMO](https://subku.herokuapp.com/sub?target=clash&url=https%3a%2f%2fproxypoolss.tk%2fclash%2fproxies%3fc%3dJP%2cTW%26speed%3d15%26type%3dss)的节点取自订阅: [Sansui233/proxypool](https://github.com/Sansui233/proxypool)  
