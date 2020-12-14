@@ -12,8 +12,8 @@
 * **替换subku.herokuapp.com为heroku分配的项目域名**  
 * **替换password为部署时设置的API_TOKEN值**  
 ```bash
-订阅转换: https://subku.herokuapp.com/ 
-订阅自定义节点列表: https://subku.herokuapp.com/getprofile?name=profiles/pro.ini&token=password
+订阅转换: https://appname.herokuapp.com/ 
+订阅自定义节点列表: https://appname.herokuapp.com/getprofile?name=profiles/pro.ini&token=password
 ```
   
 Thanks:  
